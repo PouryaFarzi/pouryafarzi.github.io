@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the School of Computing and Communications at Lancaster University, supervised by Dr. Scott Piao. My research centers on the reliability and security of agentic AI systems, with a particular focus on retrieval-augmented generation (RAG), entity-aware retrieval. I'm also interested in the broader questions of AI governance and security as large language models are increasingly deployed as autonomous agents.
+
+Before starting my PhD, I worked as an LLM Engineer at Tensurf, where I built production RAG pipelines and LangChain-based systems for symbolic reasoning and structured meaning extraction, and led model evaluation work that improved accuracy and reduced hallucination in deployed systems. Earlier, I was an NLP researcher at the KNTU AI Laboratory, where I developed models for classification, question answering, and connotation extraction, and worked on symbolic-affective text analysis.
+
+I hold an M.Sc. in Computer Science from Shiraz University of Technology, where my thesis addressed semantic web service discovery. My academic background spans formal knowledge representation, ontology reasoning, and machine learning, which now inform my current work on making retrieval and agentic systems more reliable, interpretable, and secure.
+
+ just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
