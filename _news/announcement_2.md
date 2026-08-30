@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: USS2026 Summer School at Lancaster University (20–22 July)
+date: 2026-07-20 to 2026-07-22
 inline: false
 related_posts: false
 ---
